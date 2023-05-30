@@ -133,7 +133,7 @@ Výsledná známka: 73/100 - C
 Další předmět z HKU - zajímavý předmět, přednášky fajn, projekty taky. Předměty s doc. Hanáčkem můžu doporučit, přestože nejsou záznamy, tak ta oblast je vysvětlována docela dobře a ty věci, co jsou trochu abstraktní, tak měl člověk možnost si v praxi odzkoušet na projektech, které jsou možná (ten druhý) trochu podhodnocené, ale i tak byly zábavné. Asi nejzábavnější předmět semestru.
 
 Hodnocení: 7/10 <br>
-Výsledná známka: X/100 - 
+Výsledná známka: 81/100 - B
 
 ## **MTIa**
 
