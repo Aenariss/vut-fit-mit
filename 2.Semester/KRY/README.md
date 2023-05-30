@@ -10,7 +10,7 @@ Projekt 2 - 7.3/8
 
 Půlsemestrálka - 11/15
 <br>
-Zkouška - X/70
+Zkouška - 56/70
 
 Projekt 1 - https://github.com/Aenariss/KRY-proj1
 <br>
