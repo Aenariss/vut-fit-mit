@@ -1,7 +1,7 @@
 # KRY 2023
 Hodnocení předmětu: 7/10
 
-Výsledek: 1. pokus - 74/100 -> C
+Výsledek: 1. pokus - 81/100 -> C
 
 Projekt 1 - 6.8/7 
 <br>
