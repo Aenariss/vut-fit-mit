@@ -1,0 +1,9 @@
+﻿<flames name="Splashes of Reality">
+  <flame name="Splashes of Reality" version="Fractron9000 0.4" size="800 600" center="-0,4051 0,0044" scale="252,2687" zoom="0" rotate="0" background="0,2509804 0 0,2509804" brightness="1" gamma="2" vibrancy="1">
+    <xform weight="1" color="1" f9k_color2="0,5" linear="1" coefs="-0,9637398 -1,315165 0 0,5 0,433 -0,25" />
+    <xform weight="1" color="0,25" f9k_color2="0,9" linear="1" coefs="0,5 0 -1,06754 0,6705862 -0,433 -0,25" />
+    <xform weight="1" color="0,25" f9k_color2="0,1" linear="1" coefs="0,5 0 0,7758921 0,7916474 0 0,5" />
+    <xform weight="1" color="0,968504" f9k_color2="0,519685" spherical="0,5729167" f9k_orb="0,9965278" coefs="0,5 0 0,00550278 0,5055028 0 -0,01100556" />
+    <xform weight="1" color="0,5" f9k_color2="0,5" power="0,2430556" coefs="2 0 0 2 -1,243629 -0,528267" post="0,5 0 0 0,5 0,6218144 0,2641335" />
+  </flame>
+</flames>

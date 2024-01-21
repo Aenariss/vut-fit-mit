@@ -164,3 +164,57 @@ Předmět je nicméně asi kvalitní, stejně jako ostatní předměty s Mgr. Kl
 
 Hodnocení: 7/10 <br>
 Výsledek - Zápočet: ANO
+
+# 3. semestr
+
+## BMS
+
+Další předmět s doc. Hanáčkem, nyní taky novým děkanem fakulty. Jako většina jeho předmětů je poměrně zajímavý, navíc doc. Hanáček má ddocela dobrý přednes. Jako všechny jeho předměty je ale taky nenahrávaný, což je jako vždycky dost škoda. 
+
+Půlsemestrálka byla v pohodě, stačil cca 1-2 dny přípravy. Projekt byl divný, bylo psáno, že bude testovaný nějakou knihovnou, ale ta knihovna sama nefungovala správně, respektive neobsahovala asi nejdůležitější věc, co obsahovat měla - opravování kódu. Nicméně i přes poněkud nejasné zadání a nefungující referenční knihovnu jsem projekt zvládl a hodnocení bylo dost mírné.
+
+Zkouška měla předtermín, což dost oceňuju, akorát v neideální termín - ale zvládlo se to. Nebyly na ní žádné extra chytáky a já si z ní odnesl docela dost bodů, vzhledem k času, co jsem předmětu věnoval.
+Celkově vzato asi nejvíc v pohodě předmět tenhle semestr (mimo VIN).
+
+Hodnocení: 7/10 <br>
+Výsledná známka: 80/100 - B
+
+## GAL
+
+Moc nevím, kam GAL zařadit - algoritmy to jsou, ale mnohem víc než o algoritmy jde o jejich pochopení a "matematicky grafové" uvažování. Předmět má potenciál a actually bych řekl, že mě to i bavilo, hlavně projekt. Je ale škoda, že dr. Křivka se na přednáškách zasekává a přednáší přijde mi v podstatě "z fleku". I přesto jsem ale z půlsemestrálky i zkoušky získal slušný počet bodů a předmět zvládl na poprvé s relativně dobrým výsledkem. 
+
+Na zkoušku i půlsemestrálku bylo ale hrozně málo času. Málo ve smyslu psal jsem celou dobu, všechny algoritmy uměl jakžtakž z paměti (na půlsemestrálce/zkoušce se pak zkouší převážně různé jejich modifikace) a stejně jsem těžce nestíhal. Navýšit na zkoušku čas a zkvalitnit přednášky a GAL bude imo o dost příjemnější předmět. Taky mi přednášky přišly hrozně protáhnuté, že namísto 3h by se některé věci daly projít za polovinu času. Ale to je asi součást předmětu, vrtat se dopodrobna v algoritmech.
+
+Hodnocení: 5/10 <br>
+Výsledná známka: 80/100 - B
+
+## MSP
+
+MSP je Rozšíření bakalářského IPT v kombinaci doc. Češka s doc. Žákem. U doc. Češky byly poměrně kvalitní přednášky, ale některé věcí, které se pak objevovaly jak na testu tak na zkoušce, nebyly z mého pohledu probrané dost (to se snad ale zlepší v dalších letech). Doc. Žák má podle mě fajn přístup ke studentům, ale jeho přednášky byly na úrovni doc. Holíka, akorát že jim šlo o něco lépe rozumět - tzn. byly chaotické, neuspořádané a ve slajdech byly občas chyby. Cvika měly z nějakého důvodu povinnou docházku, moc nechápu proč, ale bylo to zbytečně pain. 
+
+Projekty byly takové jakžtakž. První byl v pohodě, řekl bych dobře odhadnutý poměr potřebné práce vzhledem k možným bodům. Měl ho na starost dr. Mrázek, takže tady nebyl problém. Horší to bylo s druhým projektem, který byl v režii FSI, kde jsme měli dělat něco, co se na přednáškách nebralo a celkově byl projekt dost pain. Jednu část jsem vynechal úplně, protože za 2b mi nestálo strávit kdo ví kolik času hledáním toho, co je zadáním vlastně myšlené.
+
+Vnitrosemestrální testy byly doable, horší byla zkouška, na kterou bylo z mého pohledu hrozně málo času. Všechny ty příklady jsou hrozně moc počítání a ono to jen zadávat do kalkulačky, když nejste zvyklí ji denně používat, zabere docela dost. 2 příklady jsem vlastně vlbec nestihl, u jednoho jsem jen přečetl zadání, u druhého ani to ne. Taky jsem ve zkoušce udělal dost početních chyb, ale její hodnocení bylo z tohodle pohledu férové a i přes početní chyby jsem získal slušný počet bodů.
+
+Hodnocení: 4/10 <br>
+Výsledná známka: 66/100 - D
+
+## PDI
+
+U PDI jsem si reálně nebyl jistý, jestli je předmět hrozně hard nebo easy. Přednášky jsou takové teoretické, hodně algoritmů, ale zas žádný není vyloženě příliš těžký. Taky je možné mít na půlsemestrálku i zkoušku tahák. U půlsemestrálky mi ale moc nepomohl, uznávám že jsem přípravu dost podcenil a myslel si, že půl dne bude stačit. Ono by actually i stačilo, kdybych se podíval na tu část, co se pak na půlsemestrálce objevila a pochopil zadání. Byla to moje první písemka na FITu, ze které jsem dostal čistých 0 bodů. Naštěstí v předmětu nejsou minima a já ze všech ostatních aktivit získal plný počet a ze zkoušky 45/55. Kdybych nebyl pepega, mám z předmětu A, ale nedá se nic dělat.
+
+Laboratoře byly fajn, aspoň ty první, ty druhé s dr. Rychlým na Hadoop/Spark byly dost pain a strávil jsem nad něma asi 6h doma další den.
+Projekt s Dr. Rychlým byl hodnocený extrémně mírně z mojeho pohledu. Zadání bylo ale taky pain af. Zpracovávat streamované data Sparkem je za trest. Dokumentace je k ničemu, na internetu moc ukázek použití není a člověk tak jde v podstatě metodou pokus/omyl. Doporučuju každému, kdo má tu možnost, ať se zpracování proudu dat vyhne a radši si vezme statickou datovou sadu.
+
+Celkově když PDI hodnotím zpětně - je to easy předmět. Ale v průběhu semestru mi přišel dost painful, za což jsem si ale mohl teda sám (krom projektu a cvik, ty byly pain celkově)
+
+Hodnocení: 5/10 <br>
+Výsledná známka: 75/100 - C
+
+## VIN
+
+Výtvarná informatika byla můj jediný volitelný předmět semestru. V předmětu je možné získat 50B za výtvarné dílny (každý týden se odevzdává nějaký výtvor, který se vytvoří použitím nějaké z nabídnutých toolů - nic složitého) a 50B za závěrečný projekt. Na ten jsem fakt neměl ani energii ani nápad, takže jsem ho nedělal a předmětem prošel jen s dílnama a bonusovýma bodama.
+Na přednášce jsem byl jen jednou, ze zvědavosti - probíhaly o dost jinak, než jsem si představoval, ale i tak to bylo docela fajn, akorát přednáška 6-8 není optimální, hlavně pro nás co v Brně nebydlíme a musíme platit parkovné. Celkově ale super předmět a docela 👨‍🌾 farma 👨‍🌾.
+
+Hodnocení: 8/10 <br>
+Výsledná známka: 60/100 - D

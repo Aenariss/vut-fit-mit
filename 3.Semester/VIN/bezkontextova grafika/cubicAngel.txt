@@ -1,0 +1,24 @@
+# https://after12am.github.io/eisenscript-editor/
+
+{ s 0.1 } rule1
+
+set background #FFF
+set seed 150
+set colorpool randomrgb
+set color random
+
+rule rule1 maxdepth 5 {
+  	{ x 1 } arc
+  	{ ry 8 y 4 s 1 rz 35 sat 500 } rule1
+  	{ ry 42 y -2 s 0.9 rz -35 hue 50 } rule1
+}
+
+rule spike {
+	30 * { z 0.6 ry 5 x 1.1 y 0.2 } grid
+}
+
+rule arc {
+  	10 * { ry 12 }
+  	2 * { x 5 }
+  	spike
+}
