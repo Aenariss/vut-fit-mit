@@ -218,3 +218,72 @@ Na přednášce jsem byl jen jednou, ze zvědavosti - probíhaly o dost jinak, n
 
 Hodnocení: 8/10 <br>
 Výsledná známka: 60/100 - D
+
+# 4. semestr
+
+Poslední "normální" semestr na VUT FIT pro mě. Normalní ve smyslu, že dodělávám poslední zbývající povinné předměty. Díky 3-letému rozvržení navíc vychází tak, že těch předmětu není moc.
+
+## BDA
+Volitelný předmět zaměřený na kryptoměny. Říkal jsem si, že si to zkusím, protože Bitcoin a podobně blockchain-věci mi vždycky přišly zajímavé, ale nějak jsem se nikdy nedostal k tommu si to porádně nastudovat a pochopit, jak to vlastně funguje.
+V BDA jsem získal přesně ty znalosti co jsem chtěl a ještě víc. Předmět vyučuje Dr. Veselý, Dr. Homoliak a doktorandi a přednášky co jsem viděl byly docela dobré. 
+
+Jak bylo řečeno, do předmětu jsem vstupoval jako člověk, co o kryptoměnách a blockchainu ví možná tak to, že existují. Z předmětu odcházím s tím, že mám daleko jasnější představu,
+jak to celé funguje a co to fungování obnáší - předmět naprosto splnil moje očekávání a jsem rád, že jsem si ho zapsal.
+
+Z projektů jsem měl zpočátku strach, ale vše se to dalo bez větších obtíží zvládnout, za což (v případě programování smart contractu) vděčím i pěknému democvičení. Bylo tam pár problémů s Trufflem, ale nakonec se je povedlo vyřešit. Chvíli jsem měl sice strach,
+že 2. projekt neudělám, protože se mi nedařilo nic rozjet, ale nakonec se povedlo a projekt jako takový byl pak relativně bez problému. Rozdělení jednoho velkého projektu na dva menší hodnotím také velmi pozitivně.
+
+Jediná nevýhoda pro mě byly přednášky relativně pozdě odpoledne, na které jsem po pár týdnech přestal z časových důvodu chodit - to však bylo vykompenzováno streamingem a záznamy.
+
+Závěrem bych ještě chtěl vyzdvihnout skvělý úvod do předmětu s Dr. Veselým, takhle to má vypadat :-)
+
+Celkově tedy - díky všem vyučujícím, super předmět!
+
+## BZA
+Zajímavý předmět, který prozkoumává spoustu různých oblastí kryptografie a bezpečnosti jako takové. Jelikož už mám za sebou BIS a KRY, předmět pro mě byl pěkné doplnění znalostí.
+Pár drobností, které se mi na předmětu tolik nelíbily, souvisí s projektem. Koncept projektu (napsání článku, tutoriálu...) jako takový je dobrý, ačkoliv by mohlo být k dispozici více vypsaných zadání, i kdyby jenom na inspiraci, ať student ví, o čem ten projekt zhruba má vlastně být. Přišlo mi také škoda, že na tak náročný projekt nebyla žádná bližší zpětná vazba kromě bodů. Čekal bych třeba komentář ve smyslu "Tohle bylo fajn, tohle by se dalo udělat lépe...", protože z bodů jako takových se toho člověk moc nedozví.
+Celkově ale určitě předmět hodnotím pozitivně, patřil mezi ty spíše jednodušší.
+
+## PIS
+Klady:
+Přišlo mi fajn, že vysvětlované metody (persistentní data, fungování endpointu...) se ukazovaly přímo v kódu, což mi usnadnilo jak práci na projektu, tak i pochopení samotné látky.
+Týmový projekt jako takový byl fajn, PIS byl pro mě v tomhle semestru jediný předmět, kde jsem něco pořadně programoval. Budu nejspíše v minoritě, ale líbila se mi i ta Java.
+
+Zápory:
+Přednášky na workflow a vizualizaci dat mi moc konceptuálně neseděly do předmětu, aspoň vzhledem k tomu, co se probíralo předtím. 
+Zadání otázek na zkoušce mi přišly poněkud nejasné, že jsem si nebyl jistý, na co mám vlastně odpovídat.
+
+Jelikož pro mě předmět sloužil jako doplnění mé NSEC pseudo-specializace, moc jsem to neprožíval, ale PIS byl relativně jednoduchý a jsem rád, že jsem si ho zapsal, už jen kvůli tomu, že jsem si zkusil pracovat s enterprise-grade systémem.
+
+## PDS
+PDS je taková ISA++. Kdo prošel ISA, myslím si, že projde i PDS. Já osobně žádné velké problémy neměl, jenom je toho učiva prostě víc než v ostatních předmětech a na zkoušce vyžadují opravdově pochopení látky, nejen papouškování definic.
+
+Celkově je PDS ale zajímavý a kvalitní předmět, kde není snad co vytknout. Ačkoliv byl projekt trochu zvláštní s velmi volným zadáním, hodnocení bylo férové (statistická analýza dat). Děkuji za streamování, protože přednáška v pátek v 8 ráno pro mě nebyl optimální čas. 
+
+Ačkoliv jsem měl z ústní zkoušky původně strach, nakonec jsem za tu zkušenost rád, protože od bakalářských státnic jsem se s ústním zkoušením nesetkal a beru to jako dobrou přípravu na státnice magisterské.
+
+# 5. semestr
+
+Jak bylo avizováno, všechny povinné předměty jsem již úspěšně splnil (a všechny na první pokus!), 5. semestr proto byl spíše takový odpočinek. Zapsal jsem si jenom BIO abych završil NSEC předměty a FIT pro kredity navíc.
+Byl to pro mě díky pár předdmětem taky první a poslední semestr na FITu, kdy jsem měl samé A a byl tedy 1. v ročníku 😎.
+
+## BIO
+Probíraná tématika v předmětu byla zajímavá, chce to ale aktualizovat i zbývající přednášky. Co se cvik týče, BIO je určitě mezi těmi nejlepšími. Velký palec nahoru za ně a obzvlášť pro Lukáše Semeráda, se kterým byla na cvikách super atmosféra.
+U projektů bych ocenil od začátku trochu detailnější zadání, na druhou stranu ale oceňuju volnost, kterou jsme při řešení měli. Projekt byl každopádně zajímavý, cením možnost vybrat si z velkého množství témat a lidské hodnocení. Ačkoliv jsme s kolegou 
+v podstatě nesplnili zadání a dělali něco jiného, stále jsme si odnesli hromadu bodů, což si v jiných předmětech nedovedu představit.
+
+Velké díky taky za vypsání předtermínu, krásně mi ulehčil zkouškové. Jsem rád, že předtermín byl ústní formou a myslím si, že by forma měla být zachována i do dalších let.
+Celkově vzato pro mě letošní BIO patří, hlavně díky velmi pro-studentskému přístupu a zajímavé tématice, mezi nejlepší předměty, se kterými jsem se na FITu setkal. Jen tak dál 😎👍
+
+## FIT
+Další farmící předmět, kde jsem byl poněkud zaskočen, že výsledkem není započet, ale klasifikovaný zápočet. Klasifikovaný nevím na základě čeho, ale mám A. Na předmětu jsem tedy moc času nestrávil, ale díky týmové spolupráci jsem byl vzorným studentem.
+Jako u všech předmětu pana Klapetka je to spíše takové povídání, u kterého může člověk vypnout mozek zaměřený na informatiku. Takže přestože jsem sám na přednášky moc nechodil, i tak doporučuju, pan Klapetek je super.
+
+## SEP
+Předmět závislý na výběru tématu a vedoucího. Já si zvolil téma ``Porovnání nástrojů zamezujících sledování uživatele prohlížeče``. Původně jsem chtěl téma jiné, ale bohužel už nebylo dostupné, tak jsem si zvolil toto.
+Téma mi přišlo zajímavé, protože jsem sám relativně nedávno odešel od Chromu na Brave, právě kvůli obavám o bezpečnost. Minimálně z hlediska zajímavosti jsem tedy s tématem spokojen. Náročnost nemůžu přesně hodnotit, ale
+v rámci SEP mi to nepřišlo nijak hrozné. Práce také vzniká ve spolupráci s GEN Digital, kde mám možnost komunikovat s předními odborníky z oblasti, co sami mají na kontě spousty článků, takže i za to jsem rád.
+
+# 6. semestr
+
+Díky rozvržení na 3 roky mi vyšlo, že k diplomce už v létě nemám nic. Celý semestr se tedy můžu věnovat jen tomu. Co se týče hodnocení, zde je to stejně jako na bakaláří vysoce individuální a závisí na výběru vedoucího a tématu. 
