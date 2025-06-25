@@ -239,10 +239,18 @@ Závěrem bych ještě chtěl vyzdvihnout skvělý úvod do předmětu s Dr. Ves
 
 Celkově tedy - díky všem vyučujícím, super předmět!
 
+Hodnocení: 8/10 <br>
+Výsledná známka: 84/100 - B
+
+
 ## BZA
 Zajímavý předmět, který prozkoumává spoustu různých oblastí kryptografie a bezpečnosti jako takové. Jelikož už mám za sebou BIS a KRY, předmět pro mě byl pěkné doplnění znalostí.
 Pár drobností, které se mi na předmětu tolik nelíbily, souvisí s projektem. Koncept projektu (napsání článku, tutoriálu...) jako takový je dobrý, ačkoliv by mohlo být k dispozici více vypsaných zadání, i kdyby jenom na inspiraci, ať student ví, o čem ten projekt zhruba má vlastně být. Přišlo mi také škoda, že na tak náročný projekt nebyla žádná bližší zpětná vazba kromě bodů. Čekal bych třeba komentář ve smyslu "Tohle bylo fajn, tohle by se dalo udělat lépe...", protože z bodů jako takových se toho člověk moc nedozví.
 Celkově ale určitě předmět hodnotím pozitivně, patřil mezi ty spíše jednodušší.
+
+Hodnocení: 7/10 <br>
+Výsledná známka: 80/100 - D
+
 
 ## PIS
 Klady:
@@ -255,12 +263,20 @@ Zadání otázek na zkoušce mi přišly poněkud nejasné, že jsem si nebyl ji
 
 Jelikož pro mě předmět sloužil jako doplnění mé NSEC pseudo-specializace, moc jsem to neprožíval, ale PIS byl relativně jednoduchý a jsem rád, že jsem si ho zapsal, už jen kvůli tomu, že jsem si zkusil pracovat s enterprise-grade systémem.
 
+Hodnocení: 5/10 <br>
+Výsledná známka: 71/100 - C
+
+
 ## PDS
 PDS je taková ISA++. Kdo prošel ISA, myslím si, že projde i PDS. Já osobně žádné velké problémy neměl, jenom je toho učiva prostě víc než v ostatních předmětech a na zkoušce vyžadují opravdově pochopení látky, nejen papouškování definic.
 
 Celkově je PDS ale zajímavý a kvalitní předmět, kde není snad co vytknout. Ačkoliv byl projekt trochu zvláštní s velmi volným zadáním, hodnocení bylo férové (statistická analýza dat). Děkuji za streamování, protože přednáška v pátek v 8 ráno pro mě nebyl optimální čas. 
 
 Ačkoliv jsem měl z ústní zkoušky původně strach, nakonec jsem za tu zkušenost rád, protože od bakalářských státnic jsem se s ústním zkoušením nesetkal a beru to jako dobrou přípravu na státnice magisterské.
+
+Hodnocení: 8/10 <br>
+Výsledná známka: 80/100 - B
+
 
 # 5. semestr
 
@@ -275,15 +291,58 @@ v podstatě nesplnili zadání a dělali něco jiného, stále jsme si odnesli h
 Velké díky taky za vypsání předtermínu, krásně mi ulehčil zkouškové. Jsem rád, že předtermín byl ústní formou a myslím si, že by forma měla být zachována i do dalších let.
 Celkově vzato pro mě letošní BIO patří, hlavně díky velmi pro-studentskému přístupu a zajímavé tématice, mezi nejlepší předměty, se kterými jsem se na FITu setkal. Jen tak dál 😎👍
 
+Hodnocení: 8/10 <br>
+Výsledná známka: 92/100 - A
+
+
 ## FIT
 Další farmící předmět, kde jsem byl poněkud zaskočen, že výsledkem není započet, ale klasifikovaný zápočet. Klasifikovaný nevím na základě čeho, ale mám A. Na předmětu jsem tedy moc času nestrávil, ale díky týmové spolupráci jsem byl vzorným studentem.
 Jako u všech předmětu pana Klapetka je to spíše takové povídání, u kterého může člověk vypnout mozek zaměřený na informatiku. Takže přestože jsem sám na přednášky moc nechodil, i tak doporučuju, pan Klapetek je super.
+
+Hodnocení: 5/10 <br>
+Výsledná známka: A
+
 
 ## SEP
 Předmět závislý na výběru tématu a vedoucího. Já si zvolil téma ``Porovnání nástrojů zamezujících sledování uživatele prohlížeče``. Původně jsem chtěl téma jiné, ale bohužel už nebylo dostupné, tak jsem si zvolil toto.
 Téma mi přišlo zajímavé, protože jsem sám relativně nedávno odešel od Chromu na Brave, právě kvůli obavám o bezpečnost. Minimálně z hlediska zajímavosti jsem tedy s tématem spokojen. Náročnost nemůžu přesně hodnotit, ale
 v rámci SEP mi to nepřišlo nijak hrozné. Práce také vzniká ve spolupráci s GEN Digital, kde mám možnost komunikovat s předními odborníky z oblasti, co sami mají na kontě spousty článků, takže i za to jsem rád.
 
+Hodnocení: 9/10 <br>
+Výsledná známka: 92/100 - A
+
+
 # 6. semestr
 
-Díky rozvržení na 3 roky mi vyšlo, že k diplomce už v létě nemám nic. Celý semestr se tedy můžu věnovat jen tomu. Co se týče hodnocení, zde je to stejně jako na bakaláří vysoce individuální a závisí na výběru vedoucího a tématu. 
+Díky rozvržení na 3 roky mi vyšlo, že k diplomce už v létě nemám nic. Celý semestr se tedy můžu věnovat jen tomu. Co se týče hodnocení, zde je to stejně jako na bakaláří vysoce individuální a závisí na výběru vedoucího a tématu.
+Repozitář pro diplomovou práci: https://github.com/Aenariss/DIP.
+
+
+Na diplomové práci jsem pracoval skoro celý letní semestr (hotovo bylo koncem dubna), přičemž velmi pomohlo, že jsem měl už teoretickou část hotovou ze semestrálního projektu.
+Musím ocenit vedoucího Dr. Polčáka, který na mě měl vždy čas a na konzultacích jsme strávili vždy hodiny. Můžu ho jako vedoucího doporučit každému, kdo chce vytvořit kvalitní práci.
+
+Hodnocení vedoucího: 95/A <br>
+Hodnocení oponenta: 90/A <br>
+Obhajoba u státnic: A + návrh na cenu děkana
+
+# Státnice
+Jako bonus na konec přidávám subjektivní hodnocení státnic. Z mého pohledu se jedná o zastaralý, zkostnatělý systém, který není vhodný k posouzení, zda si zasloužite inženýrský titul. V podstatě se na základě dvou náhodně vybraných otázek, na které vedete cca 4 minuty diskuzi, rozhodne, jestli si titul zasloužite, nebo ne.
+Diplomovou práci chápu a vidím v ní smysl, stejně tak jako v její obhajobě. Otázky u státnic jsou ale z mého pohledu zbytečné, protože se týkají předmětů, které jsme již prošli, navíc mnohem detailněji, než u státnic. Kdybychom je neprošli, nedostaneme se až sem. A teď to celé procházet znova, 63 otázek, no nevidím v tom úplně point. Proto jsem zastáncem toho, že státnice, respektive ústní zkoušení, by mělo být zrušeno. 
+
+Připrava na státnice probíhala cca měsíc, kdy první 2 týdny jsem se z osobních i zdravotních důvodů učil cca 1-3h denně. Další týden se toto číslo zvýšilo na 4-6, následující týden 6-8 a poslední týden 8+ hodin každý den. 
+
+Předchozí řádky mohou působit, že bych snad státnice neudělal a proto si stěžuju -- státnice jsem úspěšně absolvoval hned na 1. pokus, s celkovým výsledkem B -- velmi dobře, což mi společně s dobrým průměrem (1.75) zajistilo nižší mimořádné stipendium za dobré výsledky.
+Otázky u státnic:
+- Metody pro identifikace síťového provozu: C
+- Markovské řetězce a základní techniky pro jejich analýzu: A
+
+
+Výsledná B. 
+
+# Shrnutí
+Závěrem bych chtěl poděkovat každému, kdo si má subjektivní hodnocení přečetl a doufám, že vám to pomohlo udělat si obrázek o tom, jak magisterské studium na FITu vypadá a co vás čeka. Studium mělo své světlé, ale i stinné stránky. U spousty předmětů, konkrétně těch společných, jsem ne vždy viděl smysl. Narozdil od většiny mi nevadil ani TIN, ani to FLP. Ale třeba taková UPA, PRL, částečně i AVS... některé části těch předmětů mi fakt přišli tak úzce zaměřené, že bych to čekal jako nějakouo specializaci, ne něco, co se musíme učit všichni. Naopak specializační předměty, jak ty NNET, tak většinu NSEC jsem si velmi užil. Takové PDS byl třeba naprosto ukázkový předmět se zajímavým obsahem i TOP výkladem. 
+
+FIT určitě není jednoduchá škola. Nemůžu úplně srovnávat s jinými, protože jsem je zjevně neabsolvoval, ale co tak pozoruju ve svém okolí, kde se na státnice připravují týden, na zkoušky maximálně den a závěrečnou práci udělají taky za týden, tak FIT je někde úplně jinde. Jsem si jistý, že existují i těžší školy, ale zároveň jsem toho názoru, že lehčích je podstatně více, ale to je možná jen copium nad tím, jak těžký mi občas FIT přišel.
+
+Celkově ale své zkušenosti na FITu určitě nelituju a musím uznat, že mi ta škola dala hodně. Vůbec bych nečekal, kolik věci budu vědět a kolik toho budu umět, když jsem opouštěl gymnázium a na FIT přicházel jako :clueless: prvák. Kdybych měl na VŠ nastoupit znova, myslím, že bych si FIT, dokonce i svoji NNET specializaci vybral znovu. 
+
